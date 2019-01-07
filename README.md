@@ -30,4 +30,4 @@ Once training and test is done, use the script `misclass-analysis.py` for miscla
  Sadegh Nouri Gooshki - [snourigo@uncc.edu](snourigo@uncc.edu)
 
 ## License
-Copyright (c) 2018, University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](?)
+Copyright (c) 2018, University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/AutomatedHighwayConditionAssessment/master/LICENSE)
