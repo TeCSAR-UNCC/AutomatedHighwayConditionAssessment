@@ -31,3 +31,7 @@ Once training and test is done, use the script `misclass-analysis.py` for miscla
 
 ## License
 Copyright (c) 2018, University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/AutomatedHighwayConditionAssessment/master/LICENSE)
+
+## Acknowledgment
+
+We would like to thank the Virginia Department of Transportation (VDOT) and Leidos for providing the image dataset.
