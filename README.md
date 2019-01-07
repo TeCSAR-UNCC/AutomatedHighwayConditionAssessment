@@ -6,7 +6,7 @@ The focus of this research is on designing deep learning based tools for automat
 
 In addition to python 3.5, you also need to install the follwoing python packages:
 ```bash
-Tensorflow, pandas, SciPy, scikit-learn, seaborn, Six, PIL, Image, matplotlib
+Tensorflow, pandas, SciPy, scikit-learn, seaborn, Six, PIL, Image, matplotlib, opencv-python
 ```
 
 ## Data preparation
